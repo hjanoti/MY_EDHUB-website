@@ -1,10 +1,10 @@
-# MY EDUHUB
+# MY EDHUB
 
-MY EDUHUB is an educational platform that offers a variety of online courses to help you learn new skills in web development, programming, and more.
+MY EDHUB is an educational platform that offers a variety of online courses to help you learn new skills in web development, programming, and more.
 
 ## Website Link
 
-You can access the live website here: [MY EDUHUB](https://myedhub.netlify.app/)
+You can access the live website here: [MY EDHUB](https://myedhub.netlify.app/)
 
 ## Features
 
@@ -17,12 +17,9 @@ You can access the live website here: [MY EDUHUB](https://myedhub.netlify.app/)
 - **HTML5**: Structuring the content of the website.
 - **CSS3**: Styling the website with a modern, clean, and responsive design.
 - **JavaScript**: Adding interactive elements and functionality.
-- **Tailwind CSS**: Utility-first CSS framework used for faster design and layout.
-- **React**: Used for building user interfaces with a component-based architecture.
-- **Netlify**: Used for hosting the website.
-
+  
 ## How to Run the Project Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hjanoti/MY_EDUHUB.git
+   git clone https://github.com/hjanoti/MY_EDHUB.git
